@@ -54,7 +54,6 @@ goalline report        # writes site/index.html
 
 `src/goalline/`: `data` (download, quality checks), `features` (Elo, form), `models`,
 `benchmark`, `evaluation` (walk-forward, metrics, bootstrap), `report`, `cli`.
-Design: [docs/superpowers/specs](docs/superpowers/specs/2026-10-07-goal-line-calibration-design.md).
 
 ## Limitations
 
